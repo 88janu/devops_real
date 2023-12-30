@@ -1,0 +1,5 @@
+some of the linux sysytem commands are 
+free
+top
+uptime
+hostname

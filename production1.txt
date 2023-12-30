@@ -1,0 +1,6 @@
+some of the git commands are
+git status
+git add
+git log
+git commit -m""
+git show commit id
