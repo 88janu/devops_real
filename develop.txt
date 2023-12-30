@@ -1,0 +1,4 @@
+some of the networking commands are
+telnet
+netstate
+ping
