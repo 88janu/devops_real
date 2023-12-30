@@ -1,0 +1,6 @@
+some of the ps commands are 
+ps
+ps -ef
+ps -u <specific user>
+kill -9 <pid>
+
