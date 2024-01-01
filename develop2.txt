@@ -1,0 +1,8 @@
+some of the shell script comamnds are
+$#
+$$
+$!
+$?
+$*
+$@
+
